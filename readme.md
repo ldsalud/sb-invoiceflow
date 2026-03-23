@@ -180,7 +180,7 @@ This complete SaaS application is available for:
 | | |
 |---|---|
 | **GitHub** | [@miyako-enterprises](https://github.com/miyako-enterprises/) |
-| **Email** | Contact via GitHub profile |
+| **Email** | owner@miyako-enterprises.com |
 | **Live Demo** | [sbinvoiceflow.com](https://sbinvoiceflow.com) |
 
 > 💡 **Want to see more?** I'm happy to:
